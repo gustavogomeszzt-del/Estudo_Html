@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>Fortnite</h1>
+    <hr>
+    <p>O Fortnite é um jogo eletrônico multijogador e uma plataforma de entretenimento global desenvolvida pela Epic Games, lançada originalmente em 2017. Embora conte com diferentes modalidades, o seu modo mais famoso e influente é o Battle Royale, um formato gratuito no qual até 100 jogadores saltam de um ônibus voador em uma ilha dinâmica e lutam entre si. O grande diferencial do game em relação a outros títulos de tiro é a sua mecânica de construção, que permite aos competidores coletar recursos como madeira, pedra e metal para erguer barreiras, rampas e fortificações em tempo real durante os combates. Tudo isso ocorre enquanto uma tempestade encolhe gradualmente a área segura do mapa, forçando confrontos rápidos e estratégicos até que reste apenas um único sobrevivente ou equipe.</p>
+    <p>Além das mecânicas competitivas, o jogo se transformou em um verdadeiro fenômeno cultural e em um espaço social no metaverso. Com uma estética colorida e cartunesca que reduz o impacto da violência, atraindo um público de diversas idades, a plataforma expandiu suas fronteiras ao hospedar shows virtuais de artistas renomados e grandes eventos ao vivo. O título também se destaca pelas constantes atualizações de conteúdo e temporadas temáticas, que trazem ricas colaborações com gigantes do entretenimento mundial, incluindo franquias como a Marvel, Star Wars, animes conhecidos e ícones do esporte. Essa mistura de jogabilidade acessível, interações sociais e atualizações frequentes consolidou o ecossistema como um dos maiores e mais rentáveis marcos da história recente dos videogames.</p>
+    <hr>
+    <img src="image/fortnite-1-scaled.jpg">
+    <img src="image/foto2.jpg" alt="">
+    <img src="image/images (1).jpg" alt="">
+    <hr>
+    <video src="videos/videofort.mp4.mp4" controls></video>
+
+
+
+</body>
+</html>
