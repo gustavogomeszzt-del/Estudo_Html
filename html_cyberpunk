@@ -1,1 +1,30 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+<h1>Cyberpunk</h1>
+<hr>
+
+<p>Cyberpunk 2077 é um RPG de ação em mundo aberto desenvolvido pela CD Projekt Red, ambientado na vibrante e perigosa metrópole futurista de Night City. Neste universo distópico, o poder das megacorporações supera o dos governos, e a obsessão pela modificação corporal com implantes cibernéticos dita a rotina da população. O jogador assume o papel de V, um mercenário personalizável que busca sobreviver e construir sua reputação nas ruas enquanto lida com um implante experimental defeituoso que guarda a consciência digital de Johnny Silverhand, um lendário roqueiro rebelde interpretado por Keanu Reeves.</p>
+<p>A jogabilidade combina combates em primeira pessoa frenéticos, exploração livre e uma narrativa ramificada em que as escolhas do jogador alteram o desfecho da história. É possível personalizar completamente o estilo de jogo, optando por abordagens furtivas, ataques diretos com armas tecnológicas ou o uso de habilidades de invasão digital, conhecidas como netrunning, para sabotar inimigos e sistemas de segurança à distância. Após um lançamento conturbado marcado por falhas técnicas, o título recebeu diversas atualizações, melhorias profundas em seus sistemas e a aclamada expansão Phantom Liberty, consolidando-se como uma das experiências de ficção científica mais imersivas da geração atual.</p>
+
+<hr>
+<div class="imagens">
+    <img src="imagens/images (1).jpg" alt="">
+    <img src="imagens/images (2).jpg" alt="">
+    <img src="imagens/images.jpg" alt="">
+</div>
+<hr>
+
+<video src="videos/Cyberpunk 2077 - Official Edgerunners 2 Update Overview Trailer_480p.mp4"controls></video>
+
+</body>
+
+</html>
 
