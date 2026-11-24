@@ -1,1 +1,28 @@
+body{
+    background:url(/image/images.png);
+    background-size:cover;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    height:100vh;
+}
+.central{
+    background:rgba(247, 247, 242, 0.37);
+    width:fit-content;
+    padding:15px;
+    border-radius:15px;
 
+}
+.central img{
+    width:300px;
+}
+
+.central .botoes button{
+    width:70px;
+    background:black;
+    color:white;
+    &:hover{
+        background:white;
+        color: black;
+    }
+}
